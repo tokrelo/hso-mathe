@@ -6,4 +6,4 @@ Die Übungen sind in Form von Jupyter Notebooks organisiert.
 
 ### Ausführung der Übungen
 * Laden Sie die entsprechende .ipynb Datei herunter und führen Sie das Jupyter Notebook lokal aus.
-* Öffnen Sie https://tokrelo.github.io/hso-mathe/ und wählen die passende .ipynb Datei aus.
+* Öffnen Sie den Link zur Datei in Google Colab.
